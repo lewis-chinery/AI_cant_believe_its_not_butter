@@ -13,6 +13,12 @@ On the back of recent advances in AI such as AlphaFold and ChatGPT, I'm excited 
 
 If you're keen to understand why it's so bad (and maybe learn a little about training a CNN with pytorch) please do check out the rest of the repo!
 
+<p align="center">
+<img
+   src="images/spread_of_predictions.png"
+   alt="Histogram showing spread of predictions for both butter and margarine">
+</p>
+
 ---
 
 ## Repo structure
